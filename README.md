@@ -297,8 +297,10 @@ Markdown 형식으로 작성하고,
 
 ```text
 .
+├── LICENSE
 ├── README.md
-└── USEFUL_GPT_5-6.MD
+├── USEFUL-GPT-5_6-Short.MD
+└── USEFUL-GPT-5_6.MD
 ```
 
 ### `README.md`
